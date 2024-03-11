@@ -1,0 +1,174 @@
+Name,Description
+Bank Account Number generator,The Bank Account Number tool generates a random bank account number for a bank.
+Train Ticket Purchase,"The Train Ticket Purchase tool gets train tickets for a train, provided from and to stations, and date information."
+The Cricket Score tool,The Cricket Score tool gets the score for a match that happened at a given location and date.
+Book Review,The Book Review tool gets the top-rated book reviews for a particular book.
+Grocery Shopping with discounts,The Grocery Shopping tool calculates the expense of grocery shopping based on the menu.
+Stock Price at location and date,The Stock Price tool gets the stock price for a company at a given location and date.
+Movie Recommendation,"The Movie Recommendation tool recommends movies based on the user's age, preferred genres, and the actors"
+News,The News tool gets the top news for a particular topic or query.
+Age by date,The Age tool gets the age of a person given their name and date.
+Sun-Rise Time tool,Sun Rise Time tool computes the time at which the sun rises at a given location and date.
+Taxi Booking tool,"The Taxi Booking tool books a taxi for a given location, date, and car model."
+Birthday Date of a given person,BirthdayDate tool is used to get the birthday date of a given person.
+Stock Trading,Makes a stock trading transaction.
+Stock Name by Sector,The Stock Name tool gets the stocks whose price is less than given number in a particular sector
+Bank Account Balance Finder,"The Bank Account Balance tool returns the balance in a user's bank account at a given date, provided the name of the bank account."
+Travel Cost compute,The Travel Cost tool calculates the cost of travel from one city to another given travel dates.
+Daily Horoscope Tool,The Daily Horoscope tool returns the daily horoscope for a user for the current day.
+Birthday Date,Gets the birthday date given name
+Sun Rise Time,The Sun rise time tool gets the sun rise time at a given location on a given date
+Travel Distance tool,Travel Distance tool computes the distance between two locations.
+Language Translate,Translates the given text from one language to another language.
+Airline Seat Selector by airline,"The Airline Seat Selector tool returns a seat for a given airline, flight number, date and class."
+Traffic Report for a location and date,The Traffic Report tool reports the traffic for a given location and date.
+Train Ticket Purchase With Seats,"The Train Ticket Purchase tool books train tickets for a particular train given its number, origin, destination stations, seat numbers, class preference, and date information."
+Car Finder,"The Car Finder tool finds the cars based on the model, make and the search radius."
+Movie Review By Date,The Movie Review tool gets top-rated movie reviews for a particular movie that are published on this date.
+Book Review By Date,The Book Review tool gets the top-rated book reviews for a particular book that are published on this date.
+Hotel Reservations tool,"The Hotel Reservations tool books a room in a hotel for a given location, date, and number of nights."
+Shipping cost tool,The Shipping tool computes the cost to ship a product from a location to another.
+Convert Currency,The Currency Converter tool converts one currency to another.
+Travel Distance between two locations,The Travel Distance tool calculates the distance between two locations.
+Location,Gets the location of a place
+Pizza Order,The Pizza Order tool orders a pizza with provided toppings and size.
+Translate from one to other,Translates from one language to another
+Travel Duration,Returns the travel duration between two locations.
+The Currency Converter,The Currency Converter tool converts currency from one to another.
+Car,The Car tool gets the car model for a given car number plate.
+Stock Name,The Stock Name tool gets the stocks whose price is less than given number
+Stock buy,The Stock Trading tool allows users to buy stocks on a given date.
+Calculator Expression,The Calculator tool calculates the given expression.
+Sun Set Time,The Sun set time tool gets the sun set time at a given location on a given date
+Book Review By Day,The Book Review tool gets the top-rated book reviews for a particular book that are published on this day.
+Currency Converter,The Currency Converter tool converts a foreign currency to another currency.
+Car Finder Location,"The Car Finder tool finds the car for a given location, date, and model."
+Car Rental with driver,"The Car Rental tool rents a car for a given location, date, model with driver"
+Shipping,The Shipping tool finds the shipping charges for a location
+Clothing Recommendation for weather,"The Clothing Recommendation tool recommends clothing for a user based on weather, time, location, and gender."
+Job Search with Salary,"The Job Search tool searches for a job based on the location, job title, and salary."
+Travel Duration tool,The Travel Duration tool computes the travel duration between two locations.
+Currency Converter tool,The Currency Converter tool converts one currency to another currency.
+Travel Distance Compute,The Travel Distance tool computes the distance between two locations.
+Shipping cost compute,Shipping the package from source location to destination location
+Date,Gets today's date
+Restaurant Finder,"The Restaurant Finder tool finds the restaurants based on its location, cuisine and the number of people."
+Restaurant Reservations tool,The Restaurant Reservation tool makes reservations at a given restaurant at a given location and date.
+Movie Recommendation tool,"The Movie Recommendation tool gives movie recommendations to users based on their age, gender, and the day and time information when they want to watch."
+Hotel Reservations,The Hotel Reservations tool reserves a room at a given hotel in a given location and provided date.
+Pizza Order for location & date,"The Pizza Order tool orders a pizza for a given location, date, pizza size, and ingredients."
+Daily Horoscope,The Daily Horoscope tool returns the horoscope based on the date of birth of the user.
+Car Rental,"The Car Rental tool rents a car for a given location, date, and model."
+Hotel deal,The Hotel deal tool gets the best hotel deals for a given location and date.
+Translate,The Translate tool translates a sentence from one language to another.
+Movie Review for movie,The Movie Review tool gets the top-rated movie reviews for a particular movie.
+Train information,The Train tool gives information about a train.
+Movie Finder By Date,"The Movie Finder tool finds the movies based on its title, rating and release date."
+Stock Name tool,The Stock Name tool gets the stock name for a ticker
+Restaurant Reservations,"The Restaurant Reservations tool reserves a table at a given restaurant name, date, and time."
+Bank Account Number Retriever,The Bank Account tool gets the bank account number for a given customer name and bank name.
+Calculate EMI tool,"The EMI tool calculates the EMI for a loan based on the amount, rate of interest and duration of the loan."
+Car Rental with insurance,"The Car Rental tool rents a car for a given location, date, model with insurance"
+Calendar,The Calendar tool gets the details of a meeting
+Stock Price,The Stock Price tool gets the price of a given stock at a given date.
+Location for Lat Long,Gives the location for the given latitude and longitude.
+Bank Account Balance Tool,The Bank Account Balance tool gets the current balance in a given account number in a given bank
+Train search,The Train tool returns the trains from the source to the destination on a particular date.
+Train,The Train tool gets the train number for a given train name.
+Calculator basic,The Calculator tool performs basic calculations.
+Calendar date,The Calendar tool computes the date of the first day of the week that contains the specified date.
+Movie Finder,The Movie Finder tool finds the movies based on its title and rating.
+Sun Rise Time For location & date,Sun Rise Time tool returns sun rise time for a location and a date
+Flight Booking,"The Flight Booking tool books a flight for a given origin, destination, date, and number of tickets"
+Sun Rise Time Date Location,Gives the time at which the sun rises for a given date and location.
+Travel Cost,Returns the cost of travel given origin and destination places.
+Restaurant Finder with rating,"The Restaurant Finder tool finds the restaurants based on its location, cuisine, the number of people and rating."
+Latest News,The News tool gives the latest news in a given category.
+Job Search by Salary,"The Job Search tool searches for a job based on the location, job title, and salary."
+Airline Seat Selector,The Airline Seat Selector tool gets the airline seats based on the row and column.
+Cricket Score,The Cricket Score tool provides live cricket scores for an ongoing match.
+Sun Set Time Date Location,Gives the time at which the sun sets at a location on a date.
+Movie Review,The Movie Review tool gets top-rated movie reviews for a particular movie.
+Sun Set Time For location & date,Sun set time for a location and date.
+Bank Name,The Bank Name tool gives the name of the bank in which the provided person name has an account
+Weather forecast,The Weather tool gets the weather forecast for a given location and date.
+Calculate EMI,"The Calculate EMI tool calculates EMI for a given loan amount, yearly interest rate and loan tenure."
+Clothing Recommendation,"The Clothing Recommendation tool finds the recommended clothes based on the user's gender, preferred clothing style, size, and age."
+Traffic Report,The Traffic Report tool gets traffic report for a given location and date.
+Order Pizza,"The Pizza Order tool orders a pizza for a given location, date, and size"
+Airline Seat Selector by Flight Number,The Airline Seat Selector tool selects a seat for a passenger in a given flight.
+Car Type,The Car tool returns the type of car.
+Calculator Tool,"The Calculator tool can be used to add, subtract, multiply, and divide the numbers."
+Movie Recommendation for date and location,The Movie Recommendation tool recommends a movie for a given date and location.
+Bank Name for parameters,"The BankName tool gets the name of the bank based on the branch name, state, and city information."
+Traffic Report Date Time,"The Traffic Report tool gets traffic report for a given location, date and time."
+Travel Distance,Returns the travel distance between two locations.
+Hotel,The Hotel tool gets the hotel details for a given hotel name in a location.
+Pizza,"The Pizza tool orders a pizza for a given person name, delivery location, and date."
+Weather Date for location and date,The Weather Date tool returns the weather for a given location and date.
+Book a taxi,"Book a taxi for a given location, date, time and number of passengers"
+Movie Ticket Purchase for date,"The Movie Ticket Purchase tool buys a movie ticket for a given movie, date, and location."
+Flight Number Date,"The Flight Number tool gets the flight number for a given flight name, origin, destination, and date."
+Movie Finder by actor or director,The Movie Finder tool returns the most popular movies for a particular actor or director.
+Traffic Report generator,The Traffic Report tool generates the traffic report for a particular location and date.
+Job numbers,The Job tool gives the number of job openings available in a location.
+Job Search,The Job Search tool searches for a job based on the location and job title.
+Bank Name for account number,The Bank Name tool gets the name of the bank based on an account number
+Taxi Estimator Tool,"The Taxi Estimator tool estimates the taxi fare for a given trip, date, and car model."
+Airline Seat Selector via Flight Number,The Airline Seat Selector tool helps to select a seat in a particular flight.
+Bank Account Balance,The Bank Account Balance tool shows the balance present in an account given its account number and bank name.
+Taxi Estimator for one location to other,The Taxi Estimator tool gives an estimate of how much it would cost to travel from one location to another in a taxi.
+Find restaurants tool,The Find restaurants tool tool finds the restaurants at a given location and date.
+Date tool,The Date tool returns the date in the specified format.
+EMI tool,"The EMI tool computes the EMI for a loan of a given amount, for a given tenure, and interest rate."
+Age,The Age tool gets the age of a person given their name
+Top 5 News,The News tool gets the top 5 news for a given location and date.
+Restaurant Finder with price,"The Restaurant Finder tool finds the restaurants based on its location, cuisine and the number of people."
+Birthday Date of a person,The Birthday Date tool gets the birthday date for a person.
+Job Search Date,"The Job Search tool searches for a job based on the location, job title, and date."
+Book flight tool,The Book flight tool books a flight between two cities for a given date.
+Travel Duration computation,Travel Duration tool computes the duration of a trip.
+Movie Ticket Purchase,"The Movie Ticket Purchase tool gets movie tickets for a movie, theater and date."
+Calculator,"The Calculator tool can add, subtract, multiply, divide two numbers"
+The Birthday Date Tool,The Birthday Date tool returns the date of birth of a person.
+Grocery Shopping for week,The Grocery Shopping tool helps to get the grocery list for the given week.
+Bank Account Number generate,The Bank Account Number tool generates a bank account number based on a bank name and the country.
+Taxi Estimator,The Taxi Estimator calculates the approximate fare based on the provided origin and destination.
+Flight Number for airline and date,Gets the number of flights for a particular airline on a particular date.
+Bank Name for a code,The Bank Name tool gets the name of the bank based on a bank code.
+Movie Ticket Purchase at theatre,The Movie Ticket Purchase tool purchases a movie ticket for a specific movie at a specific theatre on a specific date.
+Hotel tool,The Hotel tool lists the hotels at a given location
+Job,The Job tool gets the job of a person.
+Translate tool,The translate tool translates the input message to a given language
+Daily Horoscope for date and sign,Gives the daily horoscope for a particular date and sign.
+Location tool,The Location tool gives the location of a place.
+Calendar days,The Calendar tool gives the number of days between two dates.
+Taxi Booking,The Taxi Booking tool books a taxi based on the provided origin and destination at the provided time.
+Date format convertor,Date format convertor returns the date in the following format YYYY-MM-DD
+Weather Date,The Weather Date tool gets weather information for a specific location and date.
+Car price compute,"The Car tool computes the price of a car based on its brand, model, and year."
+Stock Price of a stock,The Stock Price tool gets the price of a stock at a particular date.
+Grocery Shopping,The Grocery Shopping tool calculates the expense of grocery shopping based on the menu.
+Size,The Size tool gets the size of a person given their name
+Travel Cost calculate,"The Travel Cost tool calculates the cost of a travel for a given location, date, and mode of transport."
+Stock Price at a date,The Stock Price tool gets the price of a particular stock at a particular date.
+EMI calculator,"The EMI calculator tool calculates the EMI for a given loan amount, interest rate, and tenure."
+Bank Account Number,The Bank Account Number tool gives the account number given the account holder's name
+Flight Number,"The Flight Number tool gets the flight number for a given flight name, origin, and destination."
+Car Information,The Car information tool gives information about a car.
+Clothing Recommendation Tool,The Clothing Recommendation tool returns a list of clothing that are most suitable for a given event
+Size Object,The Size tool gives the size of an object.
+News - top stories,The News tool returns the top stories for a particular date and location.
+Hotel Reservations for check in checkout,"The Hotel Reservation tool books a hotel for a given location, check in and check out dates."
+Book Review By Before Date,The Book Review tool gets the top-rated book reviews for a particular book that are published before this date.
+Humidity at timezone,Computes humidity at a given timezone on a date
+Humidity,Computes humidity at a location on a date
+Humidity Altitude Location date,Computes humidity at an altitude at a given location and date
+Movie Review By After Date,The Movie Review tool gets top-rated movie reviews for a particular movie that are published after this date.
+Movie Review By Before Date,The Movie Review tool gets top-rated movie reviews for a particular movie that are published before this date.
+Real Estate Finder for homes,"The Real Estate Finder tool searches for homes based on a location, price range, and bedrooms."
+Real Estate Finder,"The Real Estate Finder tool finds the Real Estate properties based on its location, size, and type."
+The Real Estate Finder,"Real Estate Finder finds properties at a given location, price, number of bathrooms, and bedrooms."
+Restaurant Recommender for time,"The Restaurant Recommender tool recommends a restaurant for a location, date, cuisine, number of people, and time."
+Restaurant Recommender,"The Restaurant Recommender tool recommends a restaurant based on a given location, cuisine, and price range"
+Restaurant Recommender for a criteria,"The Restaurant Recommender tool returns a list of restaurants at a location, for a given date, cuisine, price range, and rating of the restaurant."
